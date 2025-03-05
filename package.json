@@ -20,6 +20,7 @@
     "@angular/router": "^17.3.0",
     "@formio/angular": "7.5.0-rc.9",
     "@formio/js": "^5.0.1",
+    "@formio/premium": "^3.0.3",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
